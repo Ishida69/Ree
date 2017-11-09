@@ -12,7 +12,7 @@ namespace ReeTail.Controllers
         // GET: ItemSearch/Random
         public ActionResult Random()
         {
-            var ItemName = new ItemSearch() { SearchItemName = "Car" };
+            var SearchItemName = new ItemSearch { SearchItemName = "Car" };
 
             return View();
         }

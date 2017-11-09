@@ -1,4 +1,3 @@
-C:\Users\Billy Bennett\Desktop\VS Project\ReeTail\obj\Debug\ReeTail.csproj.CoreCompileInputs.cache
 C:\Users\Billy Bennett\Desktop\VS Project\ReeTail\bin\ApplicationInsights.config
 C:\Users\Billy Bennett\Desktop\VS Project\ReeTail\bin\ReeTail.dll.config
 C:\Users\Billy Bennett\Desktop\VS Project\ReeTail\bin\ReeTail.dll
@@ -37,6 +36,6 @@ C:\Users\Billy Bennett\Desktop\VS Project\ReeTail\bin\Microsoft.AI.DependencyCol
 C:\Users\Billy Bennett\Desktop\VS Project\ReeTail\bin\Microsoft.AI.ServerTelemetryChannel.xml
 C:\Users\Billy Bennett\Desktop\VS Project\ReeTail\bin\Microsoft.AI.WindowsServer.xml
 C:\Users\Billy Bennett\Desktop\VS Project\ReeTail\bin\Microsoft.AI.Web.xml
-C:\Users\Billy Bennett\Desktop\VS Project\ReeTail\obj\Debug\ReeTail.dll
-C:\Users\Billy Bennett\Desktop\VS Project\ReeTail\obj\Debug\ReeTail.pdb
-C:\Users\Billy Bennett\Desktop\VS Project\ReeTail\obj\Debug\ReeTail.csprojResolveAssemblyReference.cache
+C:\Users\Billy Bennett\Desktop\VS Project\ReeTail\obj\Release\ReeTail.csproj.CoreCompileInputs.cache
+C:\Users\Billy Bennett\Desktop\VS Project\ReeTail\obj\Release\ReeTail.dll
+C:\Users\Billy Bennett\Desktop\VS Project\ReeTail\obj\Release\ReeTail.pdb
