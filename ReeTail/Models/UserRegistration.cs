@@ -38,6 +38,7 @@ namespace ReeTail.Models
         [DataType(DataType.PhoneNumber)]
         [MaxLength(15)]
         public string MobileNum { get; set; }
+
         [DisplayName("Profile Picture")]
         [Display(Prompt = "Choose a profile picture (optional)")]
         [DataType(DataType.ImageUrl)]
