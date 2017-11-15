@@ -148,7 +148,7 @@
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Models\ItemSearch.cs" />
-    <Compile Include="Models\ListeningItems.cs" />
+    <Compile Include="Models\ListingItems.cs" />
     <Compile Include="Models\UserRegistration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
